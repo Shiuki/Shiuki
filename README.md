@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @Shiuki
-- You can reach me at shiuki@ssh.ac
-- You can also reach me on Discord: Shiuki
+## 👋 Hello, I’m **@Shiuki**
 
-Waaf~
+I’m an enthusiastic developer and community builder. Feel free to connect!
+
+- ✉️ **Email:** [shiuki@ssh.ac](mailto:shiuki@ssh.ac)  
+- 💬 **Discord:** [Shiuki](https://discord.com/users/298456324977721344)  
+- 🌐 **Website / Portfolio:** *[SSH.AC](https://ssh.ac) *
+
+---
+
+> **“Waaf~”** 🐾
+
+---
+
+### 😂 Random Jokes
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
